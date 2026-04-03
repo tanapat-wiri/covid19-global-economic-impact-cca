@@ -19,7 +19,3 @@ To apply advanced multivariate statistical techniques to uncover latent patterns
 ## 📈 Key Results
 * Successfully interpreted high-dimensional data, revealing significant correlations between the strictness of government policies (Stringency Index) and economic/health outcomes.
 * Demonstrated a strong theoretical foundation in applying traditional multivariate statistical methods to analyze and interpret real-world global socioeconomic issues.
-
-## 📁 Repository Structure
-* `/code`: Contains the R scripts for CCA and RDA computations.
-* `/report`: Contains the full academic project report (PDF).
